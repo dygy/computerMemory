@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "howto_show_computer_memory", "howto_show_computer_memory.csproj", "{A9AE48C5-C03F-4D55-852A-F56ABDD4D160}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9AE48C5-C03F-4D55-852A-F56ABDD4D160}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9AE48C5-C03F-4D55-852A-F56ABDD4D160}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9AE48C5-C03F-4D55-852A-F56ABDD4D160}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9AE48C5-C03F-4D55-852A-F56ABDD4D160}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {065DB17E-FE70-4096-AECD-B37BF4899763}
+	EndGlobalSection
+EndGlobal
